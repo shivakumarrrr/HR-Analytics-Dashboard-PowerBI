@@ -6,7 +6,8 @@ An interactive HR Dashboard developed in **Power BI** for analyzing employee dat
 
 
 # Dataset Used
-- <a href="https://github.com/shivakumarrrr/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analysis%20Dataset.xlsx">
+- [Download HR Analysis Dataset](https://github.com/shivakumarrrr/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analysis%20Dataset.xlsx)
+
 # Features
 
 - 🧍 **Total Employees Overview**: Displays the total number of employees, hires, and terminations.
@@ -26,7 +27,7 @@ An interactive HR Dashboard developed in **Power BI** for analyzing employee dat
 
 # Dashboard Preview
 
-- <a href="https://github.com/shivakumarrrr/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analysis%20Dashboard.png">
+- [Preview](https://github.com/shivakumarrrr/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analysis%20Dataset.xlsx)
 
 # Use Cases
 
