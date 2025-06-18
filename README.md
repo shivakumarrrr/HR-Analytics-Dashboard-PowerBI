@@ -27,7 +27,7 @@ An interactive HR Dashboard developed in **Power BI** for analyzing employee dat
 
 # Dashboard Preview
 
-- [Preview](https://github.com/shivakumarrrr/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analysis%20Dataset.xlsx)
+- [Preview](https://github.com/shivakumarrrr/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analysis%20Dashboard.png)
 
 # Use Cases
 
