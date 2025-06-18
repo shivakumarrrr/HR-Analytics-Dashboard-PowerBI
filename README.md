@@ -10,13 +10,13 @@ An interactive HR Dashboard developed in **Power BI** for analyzing employee dat
 
 # Features
 
-- 🧍 **Total Employees Overview**: Displays the total number of employees, hires, and terminations.
-- ⚖️ **Gender Distribution**: Donut charts showing the proportion of male and female employees.
-- 🎂 **Age Group Analysis**: Visual breakdown of employee age groups.
-- 🎓 **Education Level Breakdown**: Insights into the educational background of employees.
-- 📈 **Hiring & Termination Trend**: Year-wise analysis using line charts.
-- 🏢 **Departmental Insights**: Table view showing hiring and termination across departments.
-- 🧑‍💼 **Top 5 Job Roles**: Bar chart of top job roles with active status filters.
+- **Total Employees Overview**: Displays the total number of employees, hires, and terminations.
+- **Gender Distribution**: Donut charts showing the proportion of male and female employees.
+- **Age Group Analysis**: Visual breakdown of employee age groups.
+- **Education Level Breakdown**: Insights into the educational background of employees.
+- **Hiring & Termination Trend**: Year-wise analysis using line charts.
+- **Departmental Insights**: Table view showing hiring and termination across departments.
+- **Top 5 Job Roles**: Bar chart of top job roles with active status filters.
 
 # Tools & Technologies Used
 
